@@ -18,4 +18,6 @@ This project is a simple, interesting game that I made to develop my basic conce
 
 🚀 How to Run?
 1. Clone the repository:
-```bash git clone https://github.com/your_name/computer-guess-number-game.git cd computer-guess-number-game
+```bash
+git clone https://github.com/your_name/computer-guess-number-game.git
+cd computer-guess-number-game
