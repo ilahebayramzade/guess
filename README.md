@@ -1,23 +1,25 @@
-Computer Guess Number Game 🎯
+User Guess Number Game 🎲
 
-This project is a simple, interesting game that I made to develop my basic concepts with Python and learn programming in a fun way. I hope you will learn and have fun while watching and using it. 😊
+This project is an interesting and simple game written in Python. Here the computer chooses a number, and you try to guess that number. I made the project for fun and to improve my programming skills. 😊
 
 📋 About the Project
 - Game Logic:
-- You think of a number, and the computer guesses that number. - You help the computer guess by giving the answer "bigger", "smaller" or "correct".
-- Python Code: All the logic and functions of the game are written using Python.
+- The computer chooses a random number.
+- Your goal is to guess that number correctly.
+- Every time you guess, the computer gives you a hint "too big", "too small" or "correct".
+- Python Code: The game logic and functions are written by me.
 - HTML Visual: Written with the help of AI to make it more interactive and easy to share with others.
 
 💻 How Does It Work?
-1. Start the game and think of a number.
-2. The computer will try to guess the number you are thinking of in a row.
-3. Tell the computer by saying "bigger" or "smaller" until the number you are thinking of is guessed correctly.
+1. Launch the game and start guessing a randomly selected number.
+2. Change your guesses based on the hints given by the computer.
+3. When you find the correct number, the game will end and it will show how many guesses you made.
 
 🛠️ Requirements
 - Python 3.x must be installed.
 
-🚀 How to Run?
+🚀 How to Use?
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_name/computer-guess-number-game.git
-cd computer-guess-number-game
+git clone https://github.com/ilahebayramzade/guess_num_user.git
+cd guess_num_user
